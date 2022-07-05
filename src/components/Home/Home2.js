@@ -22,34 +22,19 @@ function Home2() {
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />Enthusiastic and proactive full stack developer with 6 years of extensive & professional experience. 
+              <br />
+              <br />Have been providing clients and companies with 
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="purple"> websites & applications</b> with the <b className="purple">latest cutting-edge technologies</b> and <b className="purple">new user-featured pattern.</b> 
               </i>
               <br />
-              <br />
-              My field of Interest's are building new &nbsp;
+              <br />I focus on simplifying the user experience & interface and 
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
-                </b>
-              </i>
+                <b className="purple"> delivering a clean and optimized results </b>
+              </i> that make it easier both of performance and maintenance. 
               <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              <br />I listen clients and gain their business goals.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -97,7 +82,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/s.o.u.m.y.a_j.i.t/"
+                  href="https://www.instagram.com/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
