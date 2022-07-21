@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import portfolio from "../../Assets/Projects/project-frame.png";
 import reactTailwindTemplate from "../../Assets/Projects/react-tailwind-template.png";
 import nextjsChakraUIPortfolio from "../../Assets/Projects/nextjs-chakraui-portfolio2.png";
+import vueTemplate from "../../Assets/Projects/vue-template-frame.png";
 
 function Projects() {
   const projects = [
@@ -28,6 +29,13 @@ function Projects() {
       description: 'This is a simple ChakraUI portfolio template. This site has been built with NextJS. You can use this template for your personal portfolio site.',
       ghLink: 'https://github.com/angel-alfonzo/nextjs-chakra-ui-portfolio-template',
       demoLink: 'https://nextjs-chakra-ui-portfolio-template-eta.vercel.app'
+    },
+    {
+      imgPath: vueTemplate,
+      title: 'Vue Dashboard Template',
+      description: 'This is a simple Vue dashboard template. You can use this template for your website.',
+      ghLink: 'https://github.com/angel-alfonzo/vue_template',
+      demoLink: 'https://armour.github.io/vue-typescript-admin-template'
     }
   ]
   return (
