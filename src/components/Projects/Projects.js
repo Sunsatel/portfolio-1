@@ -6,6 +6,7 @@ import portfolio from "../../Assets/Projects/project-frame.png";
 import reactTailwindTemplate from "../../Assets/Projects/react-tailwind-template.png";
 import nextjsChakraUIPortfolio from "../../Assets/Projects/nextjs-chakraui-portfolio2.png";
 import vueTemplate from "../../Assets/Projects/vue-template-frame.png";
+import nextjsTemplate from "../../Assets/Projects/nextjs-template-frame.png";
 
 function Projects() {
   const projects = [
@@ -36,6 +37,13 @@ function Projects() {
       description: 'This is a simple Vue dashboard template. You can use this template for your website.',
       ghLink: 'https://github.com/angel-alfonzo/vue_template',
       demoLink: 'https://armour.github.io/vue-typescript-admin-template'
+    },
+    {
+      imgPath: nextjsTemplate,
+      title: 'NextJS Template',
+      description: 'This is a simple NextJS template. You can use this template for your website. As a server-side rendering framework, NextJS is good at website render',
+      ghLink: 'https://github.com/angel-alfonzo/nextjs-template1',
+      demoLink: 'https://nextjs-template1.vercel.app'
     }
   ]
   return (
