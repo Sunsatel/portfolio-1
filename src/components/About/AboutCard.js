@@ -9,7 +9,6 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Angel Alfonzo </span>
-            from <span className="purple"> Venezuela.</span>
             <br />I am a MERN & MEVN stack engineer. Especially, front-end engineer.
             <br />
             <br />
