@@ -14,7 +14,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Angel Alfonzo</h3>
+          <h3>Designed and Developed by Web Specialist</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} AA</h3>
@@ -23,7 +23,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/angel-alfonzo"
+                href="https://github.com/webspecialist2021"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

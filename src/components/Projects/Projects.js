@@ -14,35 +14,35 @@ function Projects() {
       imgPath: portfolio,
       title: 'Portfolio',
       description: 'My personal portfolio site.',
-      ghLink: 'https://github.com/angel-alfonzo/portfolio',
+      ghLink: 'https://github.com/webspecialist2021/portfolio',
       demoLink: 'https://portfolio-dun-six-62.vercel.app'
     },
     {
       imgPath: reactTailwindTemplate,
       title: 'React Tailwind Template',
       description: 'A simple landing page template. This site has been built with react and tailwind.',
-      ghLink: 'https://github.com/angel-alfonzo/react-tailwind-template',
+      ghLink: 'https://github.com/webspecialist2021/react-tailwind-template',
       demoLink: 'https://react-tailwind-template.vercel.app'
     },
     {
       imgPath: nextjsChakraUIPortfolio,
       title: 'NextJS ChakraUI Portfolio',
       description: 'This is a simple ChakraUI portfolio template. This site has been built with NextJS. You can use this template for your personal portfolio site.',
-      ghLink: 'https://github.com/angel-alfonzo/nextjs-chakra-ui-portfolio-template',
+      ghLink: 'https://github.com/webspecialist2021/nextjs-chakra-ui-portfolio-template',
       demoLink: 'https://nextjs-chakra-ui-portfolio-template-eta.vercel.app'
     },
     {
       imgPath: vueTemplate,
       title: 'Vue Dashboard Template',
       description: 'This is a simple Vue dashboard template. You can use this template for your website.',
-      ghLink: 'https://github.com/angel-alfonzo/vue_template',
+      ghLink: 'https://github.com/webspecialist2021/vue_template',
       demoLink: 'https://armour.github.io/vue-typescript-admin-template'
     },
     {
       imgPath: nextjsTemplate,
       title: 'NextJS Template',
       description: 'This is a simple NextJS template. You can use this template for your website. As a server-side rendering framework, NextJS is good at website render',
-      ghLink: 'https://github.com/angel-alfonzo/nextjs-template1',
+      ghLink: 'https://github.com/webspecialist2021/nextjs-template1',
       demoLink: 'https://nextjs-template1.vercel.app'
     }
   ]
